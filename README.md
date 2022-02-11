@@ -1,2 +1,2 @@
 # experiments
-Programming playground and experiments.
+Programming playground or "This is how I do things".
